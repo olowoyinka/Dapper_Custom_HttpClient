@@ -1,0 +1,146 @@
+﻿# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core 2, .NET 5+, .NET Core 3.1
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/bin/
+**/obj/
+**/Generated Files/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+$RECYCLE.BIN/
+
+# Recycle Bin used on file shares
+*.~lock.*
+~$*
+
+# Windows shortcut file
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+*.cs.iml
+*.code-stream/
+*/.idea/*
+*/.idea/workspace.xml
+.idea/workspace.xml
+*.code-stream/workspace.xml
+*/.code-stream/workspace.xml
+*/.code-stream
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Visual Studio for Mac
+.vscode/
+.idea/
+*.sln*
+*.csproj*
+*.unityproj
+*.pidb
+*.userprefs
+*.booproj
+*.tmproj
+*.csproj.user
+*.unityproj.user
+*.dlls
+*.dlls2
+*.sln.metadata
+.DS_Store
+.vscode
+*.ruleset
+*.user
+*.unittests
+*.TestResult
+*.userosscache
+*.rsuser
+*.userprefs
+*.booproj
+*.pidb
+*.sln.docstates
+*.ts
+*.nupkg
+*.user
+*.rsuser
+
+# Visual Studio for Mac
+.idea/
+*.sln*
+*.csproj*
+*.unityproj
+*.pidb
+*.userprefs
+*.booproj
+*.tmproj
+*.csproj.user
+*.unityproj.user
+*.dlls
+*.dlls2
+*.sln.metadata
+.DS_Store
+.vscode
+*.ruleset
+*.user
+*.unittests
+*.TestResult
+*.userosscache
+*.rsuser
+*.userprefs
+*.booproj
+*.pidb
+*.sln.docstates
+*.ts
+*.nupkg
+*.user
+*.rsuser
+
+# Visual Studio Code
+.vscode/
+.history/
+**/.vs/*
+.vs/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
